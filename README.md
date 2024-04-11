@@ -2,6 +2,8 @@
 
 0. python delete_pkl.py
 其中path/to/your/folder为下图的:your/path/results/gym_pendulum
+
+
 ![image](https://github.com/drsssssss/DSACT_plot/assets/109412594/7fab08dd-5886-4b14-8be8-008276366220)
 
 delete之后再进行以下步骤，减少占用。
@@ -24,4 +26,6 @@ delete之后再进行以下步骤，减少占用。
 
 第一步的restructure_floder_to_standard_format.py的source_path
 source_path ="/home/go/桌面/XLM/GOPS-dsac-t/results/mujoco/transfer" 组成如下：
+
+
 ![image](https://github.com/drsssssss/DSACT_plot/assets/109412594/9368eac5-802f-466c-b1e1-aa6b810c3cb3)
