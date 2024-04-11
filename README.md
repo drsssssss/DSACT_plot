@@ -1,7 +1,15 @@
 运行顺序：
+
+
 restructure_floder_to_standard_format.py **标准格式化folder**
+
+
 preprocess_data.py **标准格式folder产生标准格式json**
+
+
 plot_performance.py **json 2 pdf/png**
+
+
 cal_final_perf.py **json 2 perfmance table**
 
 
